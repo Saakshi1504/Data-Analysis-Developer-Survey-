@@ -5,7 +5,6 @@ This project provides a comprehensive analysis of developer survey data, focusin
 1. Dataset
 * The analysis is based on the Stack Overflow Developer Survey 2023 Data.
 * Source: https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey
-* Files:
 * survey_results_public.csv: The primary dataset containing the raw responses from survey participants. Each row represents a respondent, and columns correspond to their answers.
 * survey_results_schema.csv: Provides the schema for the public dataset, detailing the full questions associated with each column name in survey_results_public.csv.
 
@@ -18,6 +17,7 @@ This project provides a comprehensive analysis of developer survey data, focusin
 * Employment Status & Salary: Examination of employment trends and salary distributions.
 * Data Quality: Implementation of techniques for finding and removing outliers to ensure robust analysis.
 * Interactive Exploration: Ability to perform custom queries (e.g., checking multiple conditions, checking for specific OS users).
+* Learning & Education: Visualizations detailing which learning methods developers utilized, preferred online learning platforms, and their educational attainment levels.
 
 3. Technologies Used
 * Python: The primary programming language for the analysis.
