@@ -6,7 +6,9 @@ This project provides a comprehensive analysis of developer survey data, focusin
 * The analysis is based on the Stack Overflow Developer Survey 2023 Data.
 * Source: https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey
 * survey_results_public.csv: The primary dataset containing the raw responses from survey participants. Each row represents a respondent, and columns correspond to their answers.
+https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey?select=survey_results_public.csv
 * survey_results_schema.csv: Provides the schema for the public dataset, detailing the full questions associated with each column name in survey_results_public.csv.
+  https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey?select=survey_results_schema.csv
 
 2. Project Overview
 * The core of this project is to extract meaningful insights from a large developer survey dataset. Through a series of data cleaning, transformation, and visualization steps, this analysis explores:
